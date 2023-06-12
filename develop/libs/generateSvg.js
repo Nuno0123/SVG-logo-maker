@@ -11,6 +11,8 @@ function generateSvg(data){
         <text x="34%" y="60%" font-size="70px" font-weight="bold" text-anchor="middle" font-family="Arial" fill="${data.textColor}">${data.log}</text>`
     }
 
+    console.log("Gnerated logo.svg");
+
     return `
     <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" style="width:300px;height:200px,margin:100px">${svgShape}
     </svg>`
