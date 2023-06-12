@@ -20,4 +20,17 @@ This application generates a new SVG logo for your business.
   
   To install this app download the file folder, or clone this repo to your preferred local directory.
 
+## Usage 
+
+## Preview 
+
+## License 
+
+## Contributing 
+
+## Test 
+
+## Questions and Issues 
+
+## GitHub repository 
 
