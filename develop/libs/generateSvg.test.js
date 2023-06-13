@@ -1,4 +1,4 @@
-import generateSvg from `./generateSvg`
+const generateSvg = require('./generateSvg.js')
 
 describe(`generateSvg`, () => {
     test(`returns valid svg data`, () => {

@@ -19,4 +19,4 @@ function generateSvg(data){
 
 }
 
-export default generateSvg;
+module.exports = generateSvg;

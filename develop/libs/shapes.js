@@ -10,4 +10,4 @@ class Shape {
         this.textColor = color
     }
 }
-export default Shape
+module.exports = Shape
