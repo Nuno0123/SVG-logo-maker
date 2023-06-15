@@ -22,15 +22,29 @@ This application generates a new SVG logo for your business.
 
 ## Usage 
 
+You can use this app through git bash, using the command line. cd into the develop folder, run "node index.js" answer the questions prompted. For assistance watch [this video]
+
 ## Preview 
+![Preview](develop/assets/logo.SVG.preview.png)
 
 ## License 
+  
+  This application is covered under [MIT License](https://choosealicense.com/licenses/mit/)
 
 ## Contributing 
+  
+  All users, feel free to contribute to this project.
 
 ## Test 
 
-## Questions and Issues 
+  To test this app, follow the walk-through video above, download the file folder, or clone this repo to your preferred local directory.
 
-## GitHub repository 
+
+
+## Contact 
+[Nestor Montanez](https://github.com/Nuno0123)
+
+## Email me 
+ [Nuno0123@me.com](mailto:Nuno0123@me.com)
+
 
