@@ -22,7 +22,7 @@ This application generates a new SVG logo for your business.
 
 ## Usage 
 
-You can use this app through git bash, using the command line. cd into the develop folder, run "node index.js" answer the questions prompted. For assistance watch [this video]
+You can use this app through git bash, using the command line. cd into the develop folder, run "node index.js" answer the questions prompted. For assistance watch [this video](https://drive.google.com/file/d/1omKB0Qr6oZtzcLi5ddneg-G4bOjzykLv/view)
 
 ## Preview 
 ![Preview](develop/assets/logo.SVG.preview.png)
